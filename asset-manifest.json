@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peliculas/static/css/main.2d018204.css",
+    "main.js": "/peliculas/static/js/main.65c930b9.js",
+    "static/js/787.c495ec7b.chunk.js": "/peliculas/static/js/787.c495ec7b.chunk.js",
+    "static/media/logoibero.png": "/peliculas/static/media/logoibero.eeae565d14328e325636.png",
+    "index.html": "/peliculas/index.html",
+    "main.2d018204.css.map": "/peliculas/static/css/main.2d018204.css.map",
+    "main.65c930b9.js.map": "/peliculas/static/js/main.65c930b9.js.map",
+    "787.c495ec7b.chunk.js.map": "/peliculas/static/js/787.c495ec7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d018204.css",
+    "static/js/main.65c930b9.js"
+  ]
+}
